@@ -15,6 +15,10 @@
    .mob-adress-tell{
     font-size: 25px;
    }
+
+   .modal-label {
+       line-height: 2;
+   }
 }
 
 @media screen and (min-width: 428px){
